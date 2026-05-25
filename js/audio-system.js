@@ -14,8 +14,8 @@
 const playlist = [
   {
     id:        'song1',
-    title:     'Sampai Jadi Debu',
-    artist:    'Banda Neira',
+    title:     'id like to watch you sleeping',
+    artist:    'sal priadi',
     file:      'music/song1.mp3',
     cover:     'assets/music-cover/song1.jpeg',
     startTime: 0,       // seconds — where playback begins
